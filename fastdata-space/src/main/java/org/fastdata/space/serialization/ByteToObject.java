@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.serialization;
 
 import io.protostuff.ProtostuffIOUtil;
 import io.protostuff.Schema;

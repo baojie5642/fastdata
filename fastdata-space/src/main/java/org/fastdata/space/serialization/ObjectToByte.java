@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.serialization;
 
 import java.util.concurrent.ConcurrentHashMap;
 

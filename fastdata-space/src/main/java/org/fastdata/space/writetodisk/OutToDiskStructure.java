@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.writetodisk;
 
 public final class OutToDiskStructure {
 	private OutToDiskStructure() {

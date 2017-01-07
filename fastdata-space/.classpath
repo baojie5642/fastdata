@@ -18,10 +18,13 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO/com/baojie/fastdata-api/0.0.1-SNAPSHOT/fastdata-api-0.0.1-SNAPSHOT.jar" sourcepath="M2_REPO/com/baojie/fastdata-api/0.0.1-SNAPSHOT/fastdata-api-0.0.1-SNAPSHOT-sources.jar"/>
-	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-core/1.5.0/protostuff-core-1.5.0.jar"/>
-	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-api/1.5.0/protostuff-api-1.5.0.jar"/>
-	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-runtime/1.5.0/protostuff-runtime-1.5.0.jar"/>
-	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-collectionschema/1.5.0/protostuff-collectionschema-1.5.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.0.13/logback-core-1.0.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-core/1.5.2/protostuff-core-1.5.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-api/1.5.2/protostuff-api-1.5.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-runtime/1.5.2/protostuff-runtime-1.5.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/protostuff/protostuff-collectionschema/1.5.2/protostuff-collectionschema-1.5.2.jar"/>
 	<classpathentry kind="var" path="M2_REPO/org/objenesis/objenesis/2.4/objenesis-2.4.jar" sourcepath="M2_REPO/org/objenesis/objenesis/2.4/objenesis-2.4-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.5/commons-io-2.5.jar"/>
 	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8/junit-4.8.jar"/>

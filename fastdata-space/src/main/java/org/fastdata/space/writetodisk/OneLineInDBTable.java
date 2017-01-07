@@ -1,7 +1,9 @@
-package org.fastdata.space;
+package org.fastdata.space.writetodisk;
 
 import java.io.Serializable;
 import java.util.concurrent.ConcurrentHashMap;
+
+import org.fastdata.space.NameAndValueOfOneColumn;
 
 public class OneLineInDBTable implements Serializable {
 	private static final long serialVersionUID = 1L;

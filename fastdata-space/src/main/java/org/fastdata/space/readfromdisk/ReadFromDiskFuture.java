@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.readfromdisk;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;

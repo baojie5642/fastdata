@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.writetodisk;
 
 import io.protostuff.LinkedBuffer;
 import io.protostuff.ProtostuffIOUtil;
@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
+
+import org.fastdata.space.NameAndValueOfOneColumn;
 
 
 public class OutToDisk {

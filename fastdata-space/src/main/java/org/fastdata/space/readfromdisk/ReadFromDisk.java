@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.readfromdisk;
 
 import io.protostuff.ProtostuffIOUtil;
 import io.protostuff.Schema;
@@ -19,6 +19,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.zip.GZIPInputStream;
 
+import org.fastdata.space.NameAndValueOfOneColumn;
+import org.fastdata.space.writetodisk.OneLineInDBTable;
 import org.objenesis.Objenesis;
 import org.objenesis.ObjenesisStd;
 

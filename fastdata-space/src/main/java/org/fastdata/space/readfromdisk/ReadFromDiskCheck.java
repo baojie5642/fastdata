@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.readfromdisk;
 
 import java.io.File;
 

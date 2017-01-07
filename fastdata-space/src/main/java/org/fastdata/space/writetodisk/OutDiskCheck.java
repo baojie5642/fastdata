@@ -1,4 +1,4 @@
-package org.fastdata.space;
+package org.fastdata.space.writetodisk;
 
 import java.io.File;
 
