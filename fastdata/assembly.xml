@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly>
+    <formats>
+        <format>dir</format>
+        <format>zip</format>
+        <format>tar.gz</format>
+    </formats>
+
+    <baseDirectory>/</baseDirectory>
+    <fileSets>
+        <fileSet>
+            <directory>fastdata</directory>
+            <outputDirectory>/</outputDirectory>
+        </fileSet>
+    </fileSets>
+
+    <moduleSets>
+        <moduleSet>
+            <includes>
+                <include>com.baojie:fastdata-main</include>
+            </includes>
+            <binaries>
+                <unpack>false</unpack>
+                <outputDirectory>lib</outputDirectory>
+                <dependencySets>
+                    <dependencySet>
+                        <useTransitiveFiltering>true</useTransitiveFiltering>
+                        <useTransitiveDependencies>true</useTransitiveDependencies>
+                    </dependencySet>
+                </dependencySets>
+            </binaries>
+        </moduleSet>
+    </moduleSets>
+</assembly>
